@@ -1,4 +1,4 @@
-#Author : Manideep Paduchuri\
+#Author : Manideep Paduchuri
 import fire
 '''
 About fire
